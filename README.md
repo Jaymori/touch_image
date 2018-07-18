@@ -1,2 +1,4 @@
-# touch_image
-make bright, dark, low quality
+# 디렉토리 내의 이미지 조정
+밝게 혹은 어둡게. 해상도를 낮게 만드는 것도 가능
+
+어떤 directory에 있는 것을 수정 가능
